@@ -14,10 +14,10 @@ E. Display the top N words and their frequency of occurrence in the frontend, in
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # SOLUTION :
 so our source code comprises of following things:
-        **1.LANGUAGE USED :PYTHON ;
-        2.GUI LIBRARY USED : TKINTER(IN-BUILT GUI LIBRARY IN PYTHON ;
-        3.DATABASE USED : SQLITE3 INBUILT DATABASE PACKAGE IN PYTHON ;
-        4.SOURE CODE : THERE ARE TOTAL 2 FILES (1 FOR FRONTEND AND 1 FOR BACKEND ;
+        ## 1.LANGUAGE USED :PYTHON ; ##
+        ## 2.GUI LIBRARY USED : TKINTER(IN-BUILT GUI LIBRARY IN PYTHON ;##
+        ## 3.DATABASE USED : SQLITE3 INBUILT DATABASE PACKAGE IN PYTHON ;##
+        ## 4.SOURE CODE : THERE ARE TOTAL 2 FILES (1 FOR FRONTEND AND 1 FOR BACKEND ;##
         
 # HOW DOES THIS PROJECT WORK
 1.We have a frontend which consists:
