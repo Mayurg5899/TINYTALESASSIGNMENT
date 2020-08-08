@@ -25,24 +25,24 @@ so our source code comprises of following things:
                       B.ENTRY("space for entering number queries you want to retrive")
                       C.LISTBOX("for showing the output")
                       
-  ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/frontend.png)
+  ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/images/frontend.png)
   
  
  2.we have database named backend.sqlite where we have a table called WordsCount which we used to store the words in the textfile  " http://terriblytinytales.com/test.txt" along with their counts
  
- ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/2020-08-08%2017_47_18-Greenshotdatabase.png)
+ ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/images/2020-08-08%2017_47_18-Greenshotdatabase.png)
  
  3.now we have to retrive the top most frequent words from the database along with their count as the number entered by user in the entry box:
  
 # a.TEST CASE 1:
       WHEN USER ENTER 4 IN THE ENTRY so RESULT RETRIVE TOP FOUR WORDS WITH MAXIMUM COUNTS from DATABASE
  
- ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/testcondition1.png)
+ ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/images/testcondition1.png)
  
 # b.TEST CASE 2: 
     WHEN USER ENTER 6 IN THE ENTRY RESULT FETCHES TOP 6 WORDS WITH MAXIMUM COUNTS
  
- ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/testcondition2t.png)
+ ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/images/testcondition2t.png)
  
  
  
