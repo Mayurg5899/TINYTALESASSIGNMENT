@@ -13,15 +13,17 @@ E. Display the top N words and their frequency of occurrence in the frontend, in
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SOLUTION :
-SO our source code comprises of following things:
-        LANGUAGE USED : PYTHON
-        GUI LIBRARY USED : TKINTER(IN-BUILT GUI LIBRARY IN PYTHON)
-        DATABASE USED : SQLITE3 INBUILT DATABASE PACKAGE IN PYTHON
-        SOURE CODE : THERE ARE TOTAL 2 FILES (1 FOR FRONTEND AND 1 FOR BACKEND)
+so our source code comprises of following things:
+        1.LANGUAGE USED :PYTHON
+        2.GUI LIBRARY USED : TKINTER(IN-BUILT GUI LIBRARY IN PYTHON)
+        3.DATABASE USED : SQLITE3 INBUILT DATABASE PACKAGE IN PYTHON\n
+        4.SOURE CODE : THERE ARE TOTAL 2 FILES (1 FOR FRONTEND AND 1 FOR BACKEND)\
+        
 # HOW DOES THIS PROJECT WORK
 1.We have a frontend which consists:
-                      a.LABEL("enter a number")
+                      A.LABEL("enter a number")
                       B.ENTRY("space for entering number queries you want to retrive")
                       C.LISTBOX("for showing the output")
-                     
+                      
+  ![](https://github.com/Mayurg5899/TINYTALESASSIGNMENT/blob/master/frontend.png)
            
