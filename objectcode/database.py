@@ -14,6 +14,7 @@ for line in lh:
                                  cur.execute("INSERT INTO WordCounts(words,count) VALUES(?,1)",(s,))
                         else:
                                  cur.execute("UPDATE WordCount SET count=count+1 WHERE words=?",(s,))
+                        conn.commit()
 def view():
             sqlr="SELECT words,count FROM WordCounts ORDER BY count DESC LIMIT 10 "
             cur.execute(sqlr)
